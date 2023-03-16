@@ -3,7 +3,7 @@
  * main - print
  *
  * string
- * return - zero
+ * Return: zero
  */
 int main(void)
 {
